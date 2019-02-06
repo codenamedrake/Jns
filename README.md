@@ -1,2 +1,2 @@
-# Jns
-java networking lab
+# Jns/pns
+java/python networking lab
